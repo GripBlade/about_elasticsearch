@@ -1,0 +1,2 @@
+# about_elasticsearch
+用于记录关于elasticsearch的学习过程
